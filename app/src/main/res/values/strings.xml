@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">marketplace-sederhana</string>
+    <string name="app_name">Marketplace Sederhana</string>
+    <string name="about_the_team">About the Team</string>
+    <string name="team_members">Team members: John, Jane, Jack</string>
 </resources>
